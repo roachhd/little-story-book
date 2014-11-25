@@ -1,3 +1,3 @@
 # Contents
 
-* [chapter one](chapterone/README.md)
+* [chapter one](chapter-one/README.md)
